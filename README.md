@@ -16,7 +16,7 @@ In this project, you will make use of Python to explore data related to bike sha
 
 bikeshare_2.py for handle data
 
-File data
+File data File data
 
 1. chicago.csv
 2. new_york_city.csv
